@@ -51,7 +51,7 @@ Cada aluno deverá obter uma frequência mínima em 75% das aulas realizadas par
 
 ## Outras informações
 
-Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. Cada dúvida deverá ser postada como um *Issue* [nesta página](https://github.com/iagoac/dce673/issues). Desta forma, todos os envolvidos na disciplina (o professor e os outros alunos) poderão ver suas dúvidas e respondelas o mais rápido possível.
+Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. As dúvidas deverão ser postadas na [aba Discussões nesta página](https://github.com/iagoac/dce673/discussions). Desta forma, todos os envolvidos na disciplina (o professor e os outros alunos) poderão ver suas dúvidas e respondelas o mais rápido possível.
 
 ### Informações para citação
 
