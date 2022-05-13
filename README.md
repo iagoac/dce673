@@ -57,11 +57,11 @@ Este repositório no GitHub também servirá como fórum de dúvidas da discipli
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite o material fonte:
 
-Iago A. Carvalho (2021), DCE540. Online: https://github.com/iagoac/dce540 Version 2.00; GNU General Public License v3.0.
+Iago A. Carvalho (2021), DCE540. Online: https://github.com/iagoac/dce673 Version 2.00; GNU General Public License v3.0.
 
 
 > @Misc{CarvalhoDCE673,  
-title={DCE540 - Pesquisa Operacional},  
+title={DCE673 - Programação Funcional},  
 author={Iago A. Carvalho},   
 howPublished={\url{https&#58;//github\.com/iagoac/dce673}},  
 year={2022},  
