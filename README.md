@@ -13,20 +13,18 @@
 As aulas serão todas ministradas presencialmente, em sala de aula ou nos laboratórios da UNIFAL. Todos os slides e exercícios utilizados na disciplina serão disponibilizados assim que estiverem prontos.
 
   - **26/05** - Aula 01: Introdução a disciplina DCE673
-  - **02/06** - Aula 02: Conceitos básicos de programação funcional (Teórico)
-  - **09/06** - Aula 03: Conceitos básicos de programação funcional (Prática)
-  - **16/06** - Aula 04: Recursividade (Teórico e prático)
-  - **23/06** - Aula 05: Tuplas e listas (Teórico)
-  - **30/06** - Aula 06: Tuplas e listas (Prático)
-  - **07/07** - Aula 07: Dúvidas
-  - **14/07** - Aula 08: Prova 01
-  - **21/07** - Aula 09: Funções de ordem superior (Teórico e prático)
-  - **28/07** - Aula 10: Aplicação parcial de funções (Teórico e prático)
-  - **04/08** - Aula 11: Sistemas de tipos e tipos algébricos (Teórico e prático)
-  - **11/08** - Aula 12: Avaliação lazy VS avaliação estrita (Teórico e prático)
-  - **18/08** - Aula 13: Dúvidas
-  - **25/08** - Aula 14: Prova 02
-  - **26/08** - Aula 15: Prova especial (Presencial)
+  - **02/06** - Aula 02: Conceitos básicos de programação funcional
+  - **09/06** - Aula 03: Recursividade
+  - **16/06** - Aula 04: Tuplas e listas (Assíncrona, devido ao feriado)
+  - **23/06** - Aula 05: Dúvidas
+  - **30/06** - Aula 06: Prova 01
+  - **07/07** - Aula 07: Funções de ordem superior
+  - **14/07** - Aula 08: Aplicação parcial de funções
+  - **21/07** - Aula 09: Sistemas de tipos e tipos algébricos
+  - **28/07** - Aula 10: Avaliação lazy VS avaliação estrita
+  - **04/08** - Aula 11: Dúvidas
+  - **11/08** - Aula 12: Prova 02
+  - **18/08** - Aula 13: Prova especial (Presencial)
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças, principalmente devido ao calendário apertado deste semestre. 
 
