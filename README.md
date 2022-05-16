@@ -6,7 +6,7 @@
 
 #### Horário
 
-  - Aula teórica-prática: Quintas-feiras, 10h às 12h
+  - Aula teórica-prática: Quintas-feiras, 10h às 12h (Sala UE-B-207)
  
 #### Histórico e planejamento das aulas
 
